@@ -1,8 +1,6 @@
 ﻿using XIVSlothCombo.Attributes;
 using XIVSlothCombo.Combos.PvE;
 using XIVSlothCombo.Combos.PvP;
-using static XIVSlothCombo.Combos.PvE.GNB;
-using static XIVSlothCombo.Combos.PvE.MCH;
 
 namespace XIVSlothCombo.Combos
 {
