@@ -570,7 +570,7 @@ namespace XIVSlothCombo.Combos.PvE
                             }
                             else
                             {
-                                return OriginalHook(Bootshine);
+                                return OriginalHook(LeapingOpo);
                             }
                         }
                     }
@@ -599,7 +599,7 @@ namespace XIVSlothCombo.Combos.PvE
                             }
                             else
                             {
-                                return OriginalHook(TrueStrike);
+                                return OriginalHook(RisingRaptor);
                             }
                         }
                     }
@@ -628,7 +628,7 @@ namespace XIVSlothCombo.Combos.PvE
                             }
                             else
                             {
-                                return OriginalHook(SnapPunch);
+                                return OriginalHook(PouncingCoeurl);
                             }
                         }
                     }
